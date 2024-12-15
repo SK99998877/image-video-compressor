@@ -1,10 +1,10 @@
 streamlit
 opencv-python-headless
 Pillow
-import streamlit as st
-from PIL import Image
-import subprocess
-import os
-import zipfile
-import json
-from io import BytesIO
+streamlit as st
+PIL import Image
+subprocess
+os
+zipfile
+json
+BytesIO
