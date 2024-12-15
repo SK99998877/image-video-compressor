@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 Pillow
 streamlit as st
-PIL import Image
+PIL
 subprocess
 os
 zipfile
